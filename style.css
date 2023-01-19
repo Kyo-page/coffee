@@ -65,7 +65,7 @@ img {
 }
 
 header {
-  background-image: url(/img/AdobeStock_243516379.jpeg);
+  background-image: url(img/AdobeStock_243516379.jpeg);
   height: 100vh;
   width: 100%;
   background-size: cover;
@@ -113,7 +113,7 @@ header a:hover {
 }
 
 .menu-img {
-  background-image: url(/coffee/img/AdobeStock_303475031.jpeg);
+  background-image: url(img/AdobeStock_303475031.jpeg);
   position: relative;
 }
 
